@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jacobmanor@vt.edu-ac40c9b2.jpg"
+  avatar           : "jacob.jpg"
   name             : "Jacob Manor"
   pronouns         : # example: "she/her"  
   bio              : ""
