@@ -16,4 +16,5 @@ Born and raised in Central Massachusetts, Jacob has had an affinity for computer
 Contact
 ======
 +1(774) 573-9011
+======
 jacobmanor@vt.edu
