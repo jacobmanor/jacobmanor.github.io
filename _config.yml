@@ -21,7 +21,7 @@ repository               : "jacobmanor/jacobmanor.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/jacob.jpg"
+  avatar           : "/files/jacobm.jpg"
   name             : "Jacob Manor"
   pronouns         : # example: "he/him"  
   bio              : "I’m a senior Computer Engineering student at Virginia Tech interested in embedded systems, robotics, and software/hardware co-design."
