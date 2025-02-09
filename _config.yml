@@ -11,20 +11,20 @@ locale                   : "en-US"
 title                    : "Jacob Manor"
 title_separator          : "-"
 name                     : &name "Jacob Manor"
-description              : &description "personal description"
+description              : &description "Senior Computer Engineering student at Virginia Tech"
 url                      : https://jacobmanor.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jacobmanor/jacobmanor.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jacob.jpg"
+  avatar           : "files/jacob.jpg"
   name             : "Jacob Manor"
-  pronouns         : # example: "she/her"  
-  bio              : ""
+  pronouns         : # example: "he/him"  
+  bio              : "I’m a senior Computer Engineering student at Virginia Tech interested in embedded systems, robotics, and software/hardware co-design."
   location         : "Virginia Tech"
   uri              : # URL
   email            : "jacobmanor@vt.edu" 
@@ -112,10 +112,11 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   :   "Person" # or Organization (defaults to Person)
+  name                   : "Jacob Manor"
   links: # An array of links to social media profiles
-
+    - "https://github.com/jacobmanor"
+    - "https://www.linkedin.com/in/jacobmanor"
 
 # Analytics
 analytics:
