@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Jacob Manor is currently a senior Computer Engineering student at Virginia Tech- graduating in May 2025. 
+Jacob Manor is a recent Computer Engineering graduate from Virginia Tech (Class of 2025) with a strong foundation in low-level programming, embedded systems, and hardware/software integration.
 
 Short Bio
 ======
-Born and raised in Central Massachusetts, Jacob has had an affinity for computers and programming since he built his first PC in middle school. He is striving to create a career in the FPGA / Embedded programming field(s), putting to use his Virginia Tech education. 
+Jacob Manor grew up in Central Massachusetts and discovered his passion for computers after building his first PC in middle school. That early curiosity evolved into a hands-on, engineering-focused mindset—one he now brings to the world of embedded systems and FPGA development.
 
 # Contact
 +1(774) 573-9011  
